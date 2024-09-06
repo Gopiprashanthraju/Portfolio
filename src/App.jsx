@@ -40,7 +40,7 @@ const Proj = () => {
     <>
       <Projects
         link="https://www.example.com/voyagemate"
-        image="Train.jpeg" // Replace with actual image URL
+        image="/Train.jpeg" // Replace with actual image URL
         title="VoyageMate - MERN Stack Website"
         description="Developed a full-stack web application with user authentication and personalized travel suggestions. Integrated live tracking and PNR status checks, leveraging MongoDB for data management."
         technologies="MongoDB, Express.js, React, Node.js"
